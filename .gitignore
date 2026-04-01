@@ -27,3 +27,4 @@ dist/
 .env
 *.tsbuildinfo
 .workspace/
+.vercel

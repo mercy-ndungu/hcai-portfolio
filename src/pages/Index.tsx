@@ -139,8 +139,9 @@ const Index = () => {
             <span className="w-2 h-2 rounded-full bg-primary blink-gold flex-shrink-0" />
             <span className="text-[13px] text-muted-foreground font-body font-semibold">Currently working on:</span>
             <span className="text-[13px] text-foreground font-body">
-              Case Study One — Kenya Master Health Facility List
+              Case Study One — Kenya Master Health Facility List: Investigating whether geographic access to healthcare reflects population need, infrastructure bias, or systemic inequality.
             </span>
+
           </div>
           <span className="hidden sm:inline text-[13px] text-muted-foreground font-body">
             Week 3 of 4
